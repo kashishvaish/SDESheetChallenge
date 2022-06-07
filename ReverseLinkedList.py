@@ -17,6 +17,7 @@ from math import *
 
 
 def reverseLinkedList(head):
+    # Time: O(n) Space: O(1)
     prev = None
     next = None
     curr = head
@@ -35,6 +36,9 @@ def reverseLinkedList(head):
 # for each node in the linked list
 # insert it in the beginning of new list
 # return new list
+
+# Time: O(n) 
+# Space: O(1)
 
 # A->B->C->D
 # prev = None
