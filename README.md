@@ -11,3 +11,7 @@
 ### Day 3  (7 June 2022)
 
 3. | Reverse Linked List | [Python Solution](ReverseLinkedList.py)
+
+### Day 4  (8 June 2022)
+
+4. | Sort 0 1 2 | [Python Solution](Sort012.py)
