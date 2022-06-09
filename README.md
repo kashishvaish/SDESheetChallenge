@@ -15,3 +15,7 @@
 ### Day 4  (8 June 2022)
 
 4. | Sort 0 1 2 | [Python Solution](Sort012.py)
+
+### Day 5  (9 June 2022)
+
+5. | Next Permutation | [Python Solution](NextPermutation.py)
