@@ -19,3 +19,4 @@
 ### Day 5  (9 June 2022)
 
 5. | Next Permutation | [Python Solution](NextPermutation.py)
+6. | Cycle Detection In Singly Linked List | [Python Solution](CycleDetectionInSinglyLL.py)
