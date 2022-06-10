@@ -20,3 +20,7 @@
 
 5. | Next Permutation | [Python Solution](NextPermutation.py)
 6. | Cycle Detection In Singly Linked List | [Python Solution](CycleDetectionInSinglyLL.py)
+
+### Day 6  (10 June 2022)
+
+7. | Middle Of Linked List | [Python Solution](MiddleOfLinkedList.py)
