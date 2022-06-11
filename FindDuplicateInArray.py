@@ -4,6 +4,7 @@ from collections import *
 from math import *
 
 def findDuplicate(arr:list, n:int):
+    # Time: O(n)  Space: O(1)
     for num in arr:
         if arr[abs(num)] < 0:
             return abs(num)
