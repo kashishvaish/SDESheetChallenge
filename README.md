@@ -24,3 +24,7 @@
 ### Day 6  (10 June 2022)
 
 7. | Middle Of Linked List | [Python Solution](MiddleOfLinkedList.py)
+
+### Day 7  (11 June 2022)
+
+8. | Find Duplicate In Array | [Python Solution](FindDuplicateInArray.py) |  [Cpp Solution](FindDuplicateInArray.cpp)
