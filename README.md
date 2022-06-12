@@ -28,3 +28,7 @@
 ### Day 7  (11 June 2022)
 
 8. | Find Duplicate In Array | [Python Solution](FindDuplicateInArray.py) |  [Cpp Solution](FindDuplicateInArray.cpp)
+
+### Day 8  (12 June 2022)
+
+9. | Maximum Subarray Sum | [Python Solution](MaximumSubarraySum.py)
