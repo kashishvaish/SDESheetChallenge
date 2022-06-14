@@ -36,3 +36,4 @@
 ### Day 10  (14 June 2022)
 
 10. | Best Time To Buy And Sell Stock | [Python Solution](BestTimeToBuyAndSellStock.py)
+11. | Merge Intervals | [Python Solution](MergeIntervals.py)
