@@ -38,3 +38,7 @@
 10. | Best Time To Buy And Sell Stock | [Python Solution](BestTimeToBuyAndSellStock.py)
 11. | Merge Intervals | [Python Solution](MergeIntervals.py)
 12. | Merge Two Sorted Arrays | [Python Solution](MergeTwoSortedArrays.py)
+
+### Day 11  (15 June 2022)
+
+13. | Longest Substring Without Repeating Characters | [Python Solution](LongestSubstringWithoutRepeatingCharacters.py)
