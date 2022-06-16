@@ -46,3 +46,4 @@
 ### Day 12  (16 June 2022)
 
 14. | Missing And Repeating Numbers | [Python Solution](MissingAndRepeatingNumbers.py)
+15. | Majority Element | [Python Solution](MajorityElement.py)
