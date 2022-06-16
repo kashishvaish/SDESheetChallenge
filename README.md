@@ -42,3 +42,7 @@
 ### Day 11  (15 June 2022)
 
 13. | Longest Substring Without Repeating Characters | [Python Solution](LongestSubstringWithoutRepeatingCharacters.py)
+
+### Day 12  (16 June 2022)
+
+14. | Missing And Repeating Numbers | [Python Solution](MissingAndRepeatingNumbers.py)
