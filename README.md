@@ -48,3 +48,8 @@
 14. | Missing And Repeating Numbers | [Python Solution](MissingAndRepeatingNumbers.py)
 15. | Majority Element | [Python Solution](MajorityElement.py)
 16. | Print Permutations | [Python Solution](PrintPermutations.py)
+
+### Day 13  (17 June 2022)
+
+17. | Inorder Traversal | [Python Solution](InorderTraversal.py)
+
