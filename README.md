@@ -53,3 +53,6 @@
 
 17. | Inorder Traversal | [Python Solution](InorderTraversal.py)
 
+### Day 14  (18 June 2022)
+
+18. | Preorder Traversal | [Python Solution](PreorderTraversal.py)
