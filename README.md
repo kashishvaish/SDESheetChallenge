@@ -59,3 +59,4 @@
 19. | Postorder Traversal | [Python Solution](PostorderTraversal.py)
 20. | Check Permutation | [Python Solution](CheckPermutation.py)
 21. | Delete Kth node From End | [Python Solution](DeleteKthNodeFromEnd.py)
+22. | Delete Node In A Linked List | [Python Solution](DeleteNodeInALinkedList.py)
