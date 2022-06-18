@@ -56,3 +56,4 @@
 ### Day 14  (18 June 2022)
 
 18. | Preorder Traversal | [Python Solution](PreorderTraversal.py)
+19. | Postorder Traversal | [Python Solution](PostorderTraversal.py)
