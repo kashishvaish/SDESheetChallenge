@@ -57,3 +57,4 @@
 
 18. | Preorder Traversal | [Python Solution](PreorderTraversal.py)
 19. | Postorder Traversal | [Python Solution](PostorderTraversal.py)
+20. | Check Permutation | [Python Solution](CheckPermutation.py)
