@@ -60,3 +60,7 @@
 20. | Check Permutation | [Python Solution](CheckPermutation.py)
 21. | Delete Kth node From End | [Python Solution](DeleteKthNodeFromEnd.py)
 22. | Delete Node In A Linked List | [Python Solution](DeleteNodeInALinkedList.py)
+
+### Day 15  (19 June 2022)
+
+23. | Remove Duplicates From Sorted Array | [Python Solution](RemoveDuplicatesFromSortedArray.py)
