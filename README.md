@@ -64,3 +64,7 @@
 ### Day 15  (19 June 2022)
 
 23. | Remove Duplicates From Sorted Array | [Python Solution](RemoveDuplicatesFromSortedArray.py)
+
+### Day 16  (20 June 2022)
+
+24. | Longest Subarray Zero Sum | [Python Solution](LongestSubarrayZeroSum.py)
