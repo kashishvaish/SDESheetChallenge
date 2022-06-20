@@ -4,6 +4,7 @@ from collections import *
 from math import *
 
 def LongestSubsetWithZeroSum(arr):
+    # Time: O(n)  Space: O(n)
     sumDict = {0: -1}
     currSum = 0
     maxLen = 0
