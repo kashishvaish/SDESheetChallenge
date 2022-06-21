@@ -74,3 +74,4 @@
 25. | Intersection of Two Linked Lists | [Python Solution](IntersectionofTwoLinkedLists.py)
 26. | Merge Two Sorted Linked Lists | [Python Solution](MergeTwoSortedLinkedLists.py)
 27. | Add Two Numbers As Linked Lists | [Python Solution](AddTwoNumbersAsLinkedLists.py)
+28. | Single Element in a Sorted Array | [Python Solution](SingleElementinaSortedArray.py)
