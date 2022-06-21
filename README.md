@@ -68,3 +68,7 @@
 ### Day 16  (20 June 2022)
 
 24. | Longest Subarray Zero Sum | [Python Solution](LongestSubarrayZeroSum.py)
+
+### Day 17  (21 June 2022)
+
+25. | Intersection of Two Linked Lists | [Python Solution](IntersectionofTwoLinkedLists.py)
