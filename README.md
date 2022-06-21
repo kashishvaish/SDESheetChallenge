@@ -72,3 +72,4 @@
 ### Day 17  (21 June 2022)
 
 25. | Intersection of Two Linked Lists | [Python Solution](IntersectionofTwoLinkedLists.py)
+26. | Merge Two Sorted Linked Lists | [Python Solution](MergeTwoSortedLinkedLists.py)
