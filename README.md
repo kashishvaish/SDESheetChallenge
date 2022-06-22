@@ -81,3 +81,4 @@
 29. | Longest Palindromic Substring | [Python Solution](LongestPalindromicSubstring.py)
 30. | Next Greater Element | [Python Solution](NextGreaterElement.py)
 31. | Valid Parentheses | [Python Solution](ValidParentheses.py)
+32. | Level Order Traversal | [Python Solution](LevelOrderTraversal.py)
