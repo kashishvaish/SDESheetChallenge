@@ -1,4 +1,5 @@
 def longestPalinSubstring(str):
+    # Time: O(n^2)  Space: O(n^2)
     n = len(str)
     if n == 0:
         return ""
