@@ -75,3 +75,7 @@
 26. | Merge Two Sorted Linked Lists | [Python Solution](MergeTwoSortedLinkedLists.py)
 27. | Add Two Numbers As Linked Lists | [Python Solution](AddTwoNumbersAsLinkedLists.py)
 28. | Single Element in a Sorted Array | [Python Solution](SingleElementinaSortedArray.py)
+
+### Day 18  (22 June 2022)
+
+29. | Longest Palindromic Substring | [Python Solution](LongestPalindromicSubstring.py)
