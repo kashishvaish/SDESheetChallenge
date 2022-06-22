@@ -79,3 +79,4 @@
 ### Day 18  (22 June 2022)
 
 29. | Longest Palindromic Substring | [Python Solution](LongestPalindromicSubstring.py)
+30. | Next Greater Element | [Python Solution](NextGreaterElement.py)
