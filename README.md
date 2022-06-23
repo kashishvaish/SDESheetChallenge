@@ -82,3 +82,7 @@
 30. | Next Greater Element | [Python Solution](NextGreaterElement.py)
 31. | Valid Parentheses | [Python Solution](ValidParentheses.py)
 32. | Level Order Traversal | [Python Solution](LevelOrderTraversal.py)
+
+### Day 19  (23 June 2022)
+
+33. | Unique Paths | [Python Solution](UniquePaths.py) |  [Cpp Solution](UniquePaths.cpp)
