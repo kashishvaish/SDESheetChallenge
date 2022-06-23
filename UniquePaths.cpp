@@ -1,6 +1,7 @@
 #include <bits/stdc++.h> 
 int uniquePaths(int m, int n) {
-	int dp[m][n];
+//  Time: O(mn)  Space: O(mn)	
+    int dp[m][n];
     for(int i = 0; i < n; i++) {
         dp[0][i] = 1;
     }
