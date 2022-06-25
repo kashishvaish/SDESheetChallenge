@@ -86,3 +86,7 @@
 ### Day 19  (23 June 2022)
 
 33. | Unique Paths | [Python Solution](UniquePaths.py) |  [Cpp Solution](UniquePaths.cpp)
+
+### Day 21  (25 June 2022)
+
+34. | Palindrome Linked List | [Python Solution](PalindromeLinkedList.py)
