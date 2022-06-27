@@ -94,3 +94,4 @@
 ### Day 23  (27 June 2022)
 
 35. | Maximum Meetings | [Python Solution](MaximumMeetings.py)
+36. | Maximum Consecutive Ones | [Python Solution](MaximumConsecutiveOnes.py)
