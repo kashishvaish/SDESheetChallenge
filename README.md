@@ -90,3 +90,7 @@
 ### Day 21  (25 June 2022)
 
 34. | Palindrome Linked List | [Python Solution](PalindromeLinkedList.py)
+
+### Day 23  (27 June 2022)
+
+35. | Maximum Meetings | [Python Solution](MaximumMeetings.py)
