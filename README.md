@@ -95,3 +95,4 @@
 
 35. | Maximum Meetings | [Python Solution](MaximumMeetings.py)
 36. | Maximum Consecutive Ones | [Python Solution](MaximumConsecutiveOnes.py)
+37. | Minimum Number of Platforms | [Python Solution](MinimumNumberofPlatforms.py)
