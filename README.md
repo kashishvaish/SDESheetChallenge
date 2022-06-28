@@ -101,3 +101,4 @@
 ### Day 24  (28 June 2022)
 
 39. | LCA Of Binary Tree | [Python Solution](LCAOfBinaryTree.py)
+40. | Left View Of a Binary Tree | [Python Solution](LeftViewOfaBinaryTree.py)
