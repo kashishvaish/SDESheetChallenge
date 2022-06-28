@@ -97,3 +97,7 @@
 36. | Maximum Consecutive Ones | [Python Solution](MaximumConsecutiveOnes.py)
 37. | Minimum Number of Platforms | [Python Solution](MinimumNumberofPlatforms.py)
 38. | Implement a Queue | [Python Solution](ImplementaQueue.py)
+
+### Day 24  (28 June 2022)
+
+39. | LCA Of Binary Tree | [Python Solution](LCAOfBinaryTree.py)
