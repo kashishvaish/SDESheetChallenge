@@ -106,3 +106,4 @@
 ### Day 25  (29 June 2022)
 
 41. | Maximum Activities | [Python Solution](MaximumActivities.py)
+42. | N Queens | [Python Solution](NQueens.py)
