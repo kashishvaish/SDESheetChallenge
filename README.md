@@ -108,3 +108,4 @@
 41. | Maximum Activities | [Python Solution](MaximumActivities.py)
 42. | N Queens | [Python Solution](NQueens.py)
 43. | Reverse Words In A String | [Python Solution](ReverseWordsInAString.py)
+44. | Stack Implementation Using Array | [Python Solution](StackImplementationUsingArray.py)
