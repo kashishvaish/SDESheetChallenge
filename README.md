@@ -102,3 +102,7 @@
 
 39. | LCA Of Binary Tree | [Python Solution](LCAOfBinaryTree.py)
 40. | Left View Of a Binary Tree | [Python Solution](LeftViewOfaBinaryTree.py)
+
+### Day 25  (29 June 2022)
+
+41. | Maximum Activities | [Python Solution](MaximumActivities.py)
