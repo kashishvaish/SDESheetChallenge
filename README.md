@@ -110,3 +110,4 @@
 43. | Reverse Words In A String | [Python Solution](ReverseWordsInAString.py)
 44. | Stack Implementation Using Array | [Python Solution](StackImplementationUsingArray.py)
 45. | Check Identical Trees | [Python Solution](CheckIdenticalTrees.py)
+46. | Symmetric Tree | [Python Solution](SymmetricTree.py)
