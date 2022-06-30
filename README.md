@@ -112,3 +112,7 @@
 45. | Check Identical Trees | [Python Solution](CheckIdenticalTrees.py)
 46. | Symmetric Tree | [Python Solution](SymmetricTree.py)
 47. | Search In BST | [Python Solution](SearchInBST.py)
+
+### Day 26  (30 June 2022)
+
+48. | Kth smallest node in BST | [Python Solution](KthSmallestNodeInBST.py)
