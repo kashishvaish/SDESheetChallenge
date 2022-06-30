@@ -116,3 +116,4 @@
 ### Day 26  (30 June 2022)
 
 48. | Kth smallest node in BST | [Python Solution](KthSmallestNodeInBST.py)
+49. | K-th largest Number BST | [Python Solution](KthLargestNumberBST.py)
