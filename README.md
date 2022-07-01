@@ -117,3 +117,7 @@
 
 48. | Kth smallest node in BST | [Python Solution](KthSmallestNodeInBST.py)
 49. | K-th largest Number BST | [Python Solution](KthLargestNumberBST.py)
+
+### Day 27  (1 July 2022)
+
+50. | Word Break | [Python Solution](WordBreak.py)
