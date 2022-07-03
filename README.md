@@ -121,3 +121,7 @@
 ### Day 27  (1 July 2022)
 
 50. | Word Break | [Python Solution](WordBreak.py)
+
+### Day 29  (3 July 2022)
+
+51. | Rotate Matrix | [Python Solution](RotateMatrix.py)
