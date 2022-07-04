@@ -125,3 +125,7 @@
 ### Day 29  (3 July 2022)
 
 51. | Rotate Matrix | [Python Solution](RotateMatrix.py)
+
+### Day 30  (4 July 2022)
+
+52. | Search In A 2D Matrix | [Python Solution](SearchInA2DMatrix.py)
