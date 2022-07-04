@@ -130,3 +130,4 @@
 
 52. | Search In A 2D Matrix | [Python Solution](SearchInA2DMatrix.py)
 53. | Allocate Books | [Python Solution](AllocateBooks.py)
+54. | Majority Element - II | [Python Solution](MajorityElementII.py)
