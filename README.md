@@ -135,3 +135,9 @@
 ### Day 32  (6 July 2022)
 
 55. | Trapping Rain Water | [Python Solution](TrappingRainWater.py)
+
+
+### Day 38  (12 July 2022)
+
+56. |  | [Python Solution](.py)
+56. |  | [Python Solution](.py)
