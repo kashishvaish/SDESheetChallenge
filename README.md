@@ -137,7 +137,7 @@
 55. | Trapping Rain Water | [Python Solution](TrappingRainWater.py)
 
 
-### Day 38  (12 July 2022)
+### Day 49  (23 July 2022)
 
-56. |  | [Python Solution](.py)
-56. |  | [Python Solution](.py)
+56. | Power Set | [Python Solution](PowerSet.py)
+57. |  | [Python Solution](.py)
