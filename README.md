@@ -140,4 +140,11 @@
 ### Day 49  (23 July 2022)
 
 56. | Power Set | [Python Solution](PowerSet.py)
-57. |  | [Python Solution](.py)
+
+### Day 50  (24 July 2022)
+
+57. | Modular Exponentiation | [Python Solution](ModularExponentiation.py)
+
+### Day 51  (25 July 2022)
+
+58. | Pair Sum | [Python Solution](PairSum.py)
