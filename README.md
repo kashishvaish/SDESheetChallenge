@@ -148,3 +148,4 @@
 ### Day 51  (25 July 2022)
 
 58. | Pair Sum | [Python Solution](PairSum.py)
+59. | Longest Consecutive Sequence | [Python Solution](LongestConsecutiveSequence.py)
