@@ -150,3 +150,4 @@
 58. | Pair Sum | [Python Solution](PairSum.py)
 59. | Longest Consecutive Sequence | [Python Solution](LongestConsecutiveSequence.py)
 60. | Search In Rotated Sorted Array | [Python Solution](SearchInRotatedSortedArray.py)
+61. | Binary Tree Zigzag Traversal | [Python Solution](BinaryTreeZigzagTraversal.py)
