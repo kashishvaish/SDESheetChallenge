@@ -151,3 +151,7 @@
 59. | Longest Consecutive Sequence | [Python Solution](LongestConsecutiveSequence.py)
 60. | Search In Rotated Sorted Array | [Python Solution](SearchInRotatedSortedArray.py)
 61. | Binary Tree Zigzag Traversal | [Python Solution](BinaryTreeZigzagTraversal.py)
+
+### Day 52  (26 July 2022)
+
+62. | Job Sequencing Problem | [Python Solution](JobSequencingProblem.py)
