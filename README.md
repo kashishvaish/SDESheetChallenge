@@ -155,3 +155,4 @@
 ### Day 52  (26 July 2022)
 
 62. | Job Sequencing Problem | [Python Solution](JobSequencingProblem.py)
+63. | Fractional Knapsack | [Python Solution](FractionalKnapsack.py)
